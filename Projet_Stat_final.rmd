@@ -1,5 +1,5 @@
 ---
-title: "Compte Rendu du Projet Statistique"
+title: "Compte Rendu du Projet Statistique final version"
 author: "Tess AZEVEDO - Lucas BOUILLON - Xiaoya WANG"
 output:
   pdf_document: default
